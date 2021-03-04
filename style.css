@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 25px;
+    height: 100px;
+    width: 80px;
+}
+
+h2 {
+    font-size: 25px;
+    height: 100px;
+    width: 80px;
+}
+
+h3 {
+    font-size: 25px;
+    height: 100px;
+    width: 80px;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#App {
+    text-align: center;
+    width: 100px;
+    height: 800px;
+    background-color: coral;
+}
+
+#Game {
+    text-align: center;
+    width: 100px;
+    height: 800px;
+    background-color: crimson;
+}
+
+#chatbot {
+    text-align: center;
+    width: 100px;
+    height: 800px;
+    background-color: darkcyan;
+}
+
+img {
+    width: 350px;
+    transition: transform .2s; 
+}
+
+img:hover {
+    transform: scale(o.9)
+}
